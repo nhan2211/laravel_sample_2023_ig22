@@ -16,6 +16,7 @@
     </head>
     <body class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">
+            <!-- resources/views/layouts/navigation.blade.php -->
             @include('layouts.navigation')
 
             <!-- Page Heading -->
